@@ -1,1 +1,1 @@
-Hello {{ $json.company }}, your product {{ $json.features }} launches on 12th december 2021.
+Hello {{ $json.company }}, your product {{ $json.features }} launches on {{ $json.date }}.
